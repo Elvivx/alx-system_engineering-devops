@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-root
-=======
-user name
->>>>>>> 4b64582b99440ff76f7e99dd738b67c0ad670684
+whoami
